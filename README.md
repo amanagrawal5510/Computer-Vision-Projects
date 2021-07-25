@@ -7,5 +7,5 @@ In this project i learned how to use Gesture Control to change the volume of a c
 ## [Virtual Mouse](https://github.com/amanagrawal5510/Open-CV/tree/main/Virtual%20Mouse)
 In this project, i created an AI based Mouse Controller. I first detected the hand landmarks and then track and click based on these points.I also applied smoothing techniques to make it more usable.
 
-# Open CV Course Completed
+## [Open CV Course Completed](https://github.com/amanagrawal5510/Open-CV/tree/main/Computer%20Vision%20With%20Open%20CV_)
 
