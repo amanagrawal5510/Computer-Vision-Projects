@@ -1,6 +1,6 @@
 # Open-CV Projects
 
-[## Gesture Volume Control(./)
+[## Gesture Volume Control](./Virtual Mouse)
 
 In this project i learned how to use Gesture Control to change the volume of a computer. I first looked into hand tracking and then used the hand landmarks to find gesture of our hand to change the volume. This project is module based which means i used a previously created hand module which makes the hand tracking very easy.
 
